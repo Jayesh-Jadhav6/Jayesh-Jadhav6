@@ -1,38 +1,125 @@
-<!--## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JAYESH%20JADHAV&fontSize=70&desc=AI%20%26%20Data%20Science%20Undergraduate;Passionate%20about%20ML%20%26%20Innovation&descSize=20&descAlignY=62&animation=fadeIn" />
 
-<!--
-**Jayesh-Jadhav6/Jayesh-Jadhav6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/jayesh-shridhar-jadhav/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jayesh-jadhav"><img width="32px" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:jayeshshrjadhav@gmail.com"><img width="32px" alt="Email" title="Email" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayesh6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeshsjadhav6@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jayesh-Jadhav6&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jayesh-Jadhav6&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh-Jadhav6&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jayesh-Jadhav6&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=50&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Backend+Developer;Exploring+Cloud+%26+Scalable+Systems;Open+to+Internship+Opportunities" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jayesh-Jadhav6&icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ Skills & Technologies  
+
+### 🔧 Languages & Frameworks  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br><strong>Python</strong>
+        <br><sub>ML & Data Science</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" height="48" />
+        <br><strong>Flask</strong>
+        <br><sub>Backend APIs</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+        <br><strong>FastAPI</strong>
+        <br><sub>Backend Dev</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JS" width="48" height="48" />
+        <br><strong>JavaScript</strong>
+        <br><sub>Frontend & Logic</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html,css" alt="HTML CSS" width="48" height="48" />
+        <br><strong>HTML/CSS</strong>
+        <br><sub>Frontend</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <br><strong>MySQL</strong>
+        <br><sub>Database</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="48" height="48" />
+        <br><strong>Java</strong>
+        <br><sub>OOP & DSA</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+        <br><strong>C++</strong>
+        <br><sub>System Programming</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+        <br><strong>AWS</strong>
+        <br><sub>Cloud Basics</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="48" height="48" />
+        <br><strong>Selenium</strong>
+        <br><sub>Automation</sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" height="48" />
+        <br><strong>TensorFlow</strong>
+        <br><sub>Deep Learning</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🎬 PopcornPicks – Movie Recommendation System  
+- **Tech**: Flask, Python, TensorFlow, TMDB API  
+- Built during an internship: developed a personalized movie recommendation system using embedding similarity.  
+
+### 🔐 Passive CAPTCHA Detection System  
+- **Tech**: Flask, Python, Random Forest, Selenium, MySQL, HTML/CSS/JS  
+- Replaced traditional CAPTCHAs by detecting human vs bot interactions through behavioral data analysis.  
+- Added Aadhaar validation, analytics dashboard, and bot simulation testing.  
+
+### 🛡️ Social Media Toxicity Filter – Chrome Extension  
+- **Tech**: HTML, CSS, JavaScript, Flask, Python, ML, AWS EC2, Explainable AI  
+- Browser extension that flags and filters toxic content in real time.  
+- Implemented explainable AI features to justify toxicity scores.  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayesh-jadhav&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9&icon_color=6A5ACD" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayesh-jadhav&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=6A5ACD&text_color=c9d1d9" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-jadhav&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=c9d1d9&area=true&hide_border=true&theme=react-dark" width="90%"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=30&lines=🚀+Always+learning+and+building;💡+Exploring+AI+%26+Data+Driven+Ideas;🌟+Let's+Collaborate!" alt="Contact Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Connect!&fontSize=24&fontAlignY=80" width="100%"/>
+</div>
