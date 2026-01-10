@@ -44,6 +44,53 @@
 
 ---
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🍿 PopcornPicks – Movie Recommendation System</h3>
+        <p align="center">
+          <strong>Internship Project | ML + Flask</strong>
+        </p>
+        <p>
+          • Built a personalized movie recommendation system using embedding similarity.<br>
+          • Flask-based backend with search & recommendation APIs.<br>
+          • Integrated ML models with a user-friendly frontend.<br>
+          • Focused on real-world deployment and performance.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Jayesh-Jadhav6/PoPcornPicks" target="_blank">
+            🔗 View Repository
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🛡️ Silent-Verify (Passive CAPTCHA Detection System)</h3>
+        <p align="center">
+          <strong>Flagship ML Project | Behavioral Bot Detection</strong>
+        </p>
+        <p>
+          • Designed an ML-based system to detect bots without active CAPTCHAs.<br>
+          • Collected real human/bot session data using Selenium simulations.<br>
+          • Engineered behavioral features (idle time, click patterns, form timing).<br>
+          • Built full pipeline: data → ML model → Flask app → dashboard.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Jayesh-Jadhav6/SilentVerify" target="_blank">
+            🔗 View Repository
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## ⚡ Core Technologies
 
 ### 🔧 Programming Languages
