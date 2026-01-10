@@ -130,7 +130,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6A5ACD&center=true&width=600&lines=🚀+Building+applied+AI+projects;💡+Interested+in+ML+%26+Backend+roles;🤝+Open+to+internships+and+collaborations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6A5ACD&center=true&width=600&lines=🚀+Building+projects;💡+Interested+in+ML+%26+Backend+Software+Developer+roles;🤝+Open+to+internships+and+collaborations" />
 </div>
 
 ---
