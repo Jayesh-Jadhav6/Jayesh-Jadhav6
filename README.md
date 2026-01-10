@@ -1,15 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=JAYESH%20JADHAV&fontSize=70&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Passionate%20about%20ML%20%26%20Innovation&descSize=20&descAlignY=62&animation=fadeIn" />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jayesh-shridhar-jadhav/" target="_blank">
+  <a href="www.linkedin.com/in/jayesh6" target="_blank">
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yTZfZnQ.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/jayesh-jadhav" target="_blank">
+  <a href="https://github.com/Jayesh-Jadhav6" target="_blank">
     <img width="32px" alt="GitHub" title="GitHub" src="https://i.imgur.com/DuQUBqI.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:jayeshshrjadhav@gmail.com" target="_blank">
+  <a href="mailto:jayeshsjadhav6@gmail.com" target="_blank">
     <img width="32px" alt="Email" title="Email" src="https://i.imgur.com/SJzNVMh.png"/>
   </a>
 </div>
