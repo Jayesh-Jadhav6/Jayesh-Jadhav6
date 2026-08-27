@@ -78,10 +78,10 @@ An end-to-end BI project analyzing ~10,000 retail orders across 4 years of sales
 - Which products/categories drive the most revenue — and which are least profitable?
 - Which regions outperform, and where are the biggest improvement opportunities?
 
-**Key Metrics:** *`[Add: total sales, total profit, profit margin, order/customer counts, best/worst performing category & region, YoY growth]`*
+**Key Metrics:** *`[Total Revenue:2.30M, Profit Margin:0.12%, Total Profit: 286.40K ]`*
 
 `SQL` `MySQL` `Power BI` `DAX`
-[GitHub Repository](#) · [Dashboard/Report](#)
+[https://github.com/Jayesh-Jadhav6/Jayesh-Jadhav6/blob/main/README.md](#) · [https://github.com/Jayesh-Jadhav6/superstore-sales-bi-dashboard/blob/main/dashboard/Superstore_Sales_Dashboard.pbix](#)
 
 ---
 
