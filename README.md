@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Jayesh%20Jadhav&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20|%20Machine%20Learning%20|%20Data%20Science&descSize=16&descAlignY=75" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jayesh-jadhav](https://www.linkedin.com/in/jayesh6/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jayesh-Jadhav6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayeshsjadhav6@gmail.com)
 
