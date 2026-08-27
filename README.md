@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Jayesh%20Jadhav&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20|%20Machine%20Learning%20|%20Data%20Science&descSize=16&descAlignY=75" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-jadhav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jayesh-jadhav](https://www.linkedin.com/in/jayesh6/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jayesh-Jadhav6)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayeshsjadhav6@gmail.com)
 
@@ -78,10 +78,8 @@ An end-to-end BI project analyzing ~10,000 retail orders across 4 years of sales
 - Which products/categories drive the most revenue — and which are least profitable?
 - Which regions outperform, and where are the biggest improvement opportunities?
 
-**Key Metrics:** *`[Total Revenue:2.30M, Profit Margin:0.12%, Total Profit: 286.40K ]`*
-
 `SQL` `MySQL` `Power BI` `DAX`
-[https://github.com/Jayesh-Jadhav6/Jayesh-Jadhav6/blob/main/README.md](#) · [https://github.com/Jayesh-Jadhav6/superstore-sales-bi-dashboard/blob/main/dashboard/Superstore_Sales_Dashboard.pbix](#)
+[GitHub Repository](https://github.com/Jayesh-Jadhav6/superstore-sales-bi-dashboard) — full KPI breakdown and dashboard walkthrough in the repo README
 
 ---
 
@@ -120,9 +118,7 @@ A modular, Flask-based platform that helps candidates prepare for interviews thr
 - **Performance Dashboard** — scores, progress trends, and feedback summaries over time
 
 `Python` `Flask` `spaCy` `NLTK` `OpenCV` `MediaPipe` `MySQL`
-[GitHub Repository](#)
-
-*Metrics such as model accuracy, dataset sizes, and ATS scoring performance to be added once finalized.*
+[GitHub Repository](#) — accuracy, dataset sizes, and evaluation details in the repo README
 
 ---
 
@@ -135,8 +131,6 @@ A content-based movie recommendation engine covering 50,000+ movies, using embed
 
 `Python` `Flask` `TensorFlow` `TMDB API`
 [GitHub Repository](https://github.com/Jayesh-Jadhav6/PoPcornPicks)
-
-*Note: a relevance/engagement improvement figure exists for this project — worth keeping ready to explain the exact measurement methodology if asked.*
 
 ---
 
